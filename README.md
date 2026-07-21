@@ -78,6 +78,7 @@
   <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=pydantic&logoColor=white" />
 </p>
 <br/>
 
@@ -86,6 +87,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 <br/>
 
@@ -93,20 +95,36 @@
   <b>🤖 AI, Data Science & LLMs</b><br/>
   <img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/CatBoost-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optuna-000000?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 <br/>
 
 <p align="center">
-  <b>🛠️ DevOps & Tools</b><br/>
+  <b>☁️ DevOps & Cloud</b><br/>
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+<br/>
+
+<p align="center">
+  <b>🧪 Testing & Monitoring</b><br/>
+  <img src="https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 <br/>
