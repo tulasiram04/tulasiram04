@@ -1,4 +1,4 @@
-<img src = "githubanner.JPG"/>
+<img src="githubanner.png" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/tulasiram04" target="_blank">
