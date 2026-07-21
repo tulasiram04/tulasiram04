@@ -1,4 +1,10 @@
-<img src="githubanner.png" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Welcome%20to%20Tulasiram's%20GitHub&fontSize=36&fontColor=00F5FF&animation=fadeIn&fontAlignY=38" width="100%" />
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer+%26+AI+Explorer;Building+Innovative+Real-World+Solutions;Turning+Complex+Problems+Into+Elegant+Code" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/tulasiram04" target="_blank">
@@ -21,7 +27,7 @@
 
 <br>
 
-<h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center"> 👤 <em>About Me</em> </h2>
 
 <table width="100%">
   <tr>
@@ -40,15 +46,15 @@
 <br/>
 
 <p align="center">
-   <img src="imgs/img3.png" width="15"/>   <em><b> Computer Science & Engineering Student </b></em> <br/>
-   <img src="imgs/img4.png" width="15"/>   <em><b> Full-Stack & Creative Developer </b></em><br/>
-   <img src="imgs/img2.png" width="15"/>   <em><b> Exploring AI, Multi-Agent Systems & Embedded Tech </b></em><br/>
-   <img src="imgs/img1.png" width="15"/>   <em><b> Based in Tiruppur, Tamil Nadu </b></em><br/>
+   🎓 <em><b> Computer Science & Engineering Student </b></em> <br/>
+   💻 <em><b> Full-Stack & Creative Developer </b></em><br/>
+   🤖 <em><b> Exploring AI, Multi-Agent Systems & Embedded Tech </b></em><br/>
+   📍 <em><b> Based in Tiruppur, Tamil Nadu </b></em><br/>
 </p>
 
 <br/>
 <br/>
-<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Technologies & Tools </em> </h2>
+<h2 align="center"> ⚡ <em>Technologies & Tools</em> </h2>
 
 <p align="center">
   <b>💻 Languages</b><br/>
@@ -129,7 +135,7 @@
 
 <br/>
 
-<h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Contribution Activity & Statistics </em> </h2>
+<h2 align="center"> 📊 <em> Contribution Activity & Statistics </em> </h2>
 
 <div align="center"> 
   <picture>
