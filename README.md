@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Welcome%20to%20Tulasiram's%20GitHub&fontSize=36&fontColor=00F5FF&animation=fadeIn&fontAlignY=38" width="100%" />
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer+%26+AI+Explorer;Building+Innovative+Real-World+Solutions;Turning+Complex+Problems+Into+Elegant+Code" alt="Typing SVG" />
-  </a>
-</div>
+<img src="githubanner.png" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/tulasiram04" target="_blank">
@@ -27,7 +21,7 @@
 
 <br>
 
-<h2 align="center"> 👤 <em>About Me</em> </h2>
+<h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
 <table width="100%">
   <tr>
@@ -46,15 +40,15 @@
 <br/>
 
 <p align="center">
-   🎓 <em><b> Computer Science & Engineering Student </b></em> <br/>
-   💻 <em><b> Full-Stack & Creative Developer </b></em><br/>
-   🤖 <em><b> Exploring AI, Multi-Agent Systems & Embedded Tech </b></em><br/>
-   📍 <em><b> Based in Tiruppur, Tamil Nadu </b></em><br/>
+   <img src="imgs/img3.png" width="15"/>   <em><b> Computer Science & Engineering Student </b></em> <br/>
+   <img src="imgs/img4.png" width="15"/>   <em><b> Full-Stack & Creative Developer </b></em><br/>
+   <img src="imgs/img2.png" width="15"/>   <em><b> Exploring AI, Multi-Agent Systems & Embedded Tech </b></em><br/>
+   <img src="imgs/img1.png" width="15"/>   <em><b> Based in Tiruppur, Tamil Nadu </b></em><br/>
 </p>
 
 <br/>
 <br/>
-<h2 align="center"> ⚡ <em>Technologies & Tools</em> </h2>
+<h2 align="center"> <img src="imgs/title2.png" width="25"/> <em> Technologies & Tools </em> </h2>
 
 <p align="center">
   <b>💻 Languages</b><br/>
@@ -135,20 +129,9 @@
 
 <br/>
 
-<h2 align="center"> 📊 <em> Contribution Activity & Statistics </em> </h2>
-
+<h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Contribution Activity & Statistics </em> </h2>
 <div align="center"> 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tulasiram04/tulasiram04/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tulasiram04/tulasiram04/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake Contribution Grid Animation" src="https://raw.githubusercontent.com/tulasiram04/tulasiram04/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tulasiram04&bg_color=000000&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%"/>
 </div>
 
 
