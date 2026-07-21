@@ -23,12 +23,18 @@
 
 <h2 align="center"> <img src="imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
-<img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
-<br/>
-
-<p>
-  Hello There! <em><b> I'm Tulasiram V </b></em>, a Computer Science & Engineering student and Full-Stack Developer. I enjoy exploring AI, multi-agent systems, and embedded tech to build real-world innovative solutions. Now I'm focused on turning complex problems into elegant, high-performance applications with TypeScript, React, Next.js, Node.js, and Python.
-</p>
+<table width="100%">
+  <tr>
+    <td width="60%" valign="middle">
+      <p>
+        Hello There! <em><b> I'm Tulasiram V </b></em>, a Computer Science & Engineering student and Full-Stack Developer. I enjoy exploring AI, multi-agent systems, and embedded tech to build real-world innovative solutions. Now I'm focused on turning complex problems into elegant, high-performance applications with TypeScript, React, Next.js, Node.js, and Python.
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="260" />
+    </td>
+  </tr>
+</table>
 
 
 <br/>
