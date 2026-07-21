@@ -131,7 +131,11 @@
 
 <h2 align="center"> <img src="imgs/title3.png" width="25"/> <em> Contribution Activity & Statistics </em> </h2>
 <div align="center"> 
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" width="100%"/>
+</div>
+<br/>
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tulasiram04&theme=minimal&bg_color=ffffff&color=2da44e&line=2da44e&point=2da44e&area=true&hide_border=false" width="100%"/>
 </div>
 
 
